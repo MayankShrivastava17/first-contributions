@@ -1,4 +1,5 @@
 ﻿# Contributors
+- [Mayank Shrivastava](https://github.com/MayankShrivastava17)
 - [Atharva Gupta](https://github.com/AtharvaGupta01)
 - [Mohammed Sajid](https://github.com/sajidmansoori1998)
 - [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
@@ -25,7 +26,6 @@
 - [Kelsey Hilton](https://github.com/kelseyhilton)
 - [Jis Mathew](https://github.com/jis-infy)
 - [Vikash Kumar](https://github.com/iit2018110)
-- [Yunip Shrestha](https://github.com/ddrshrez11)
 - [Carol Destreza](https://github.com/caroldestreza)
 - [Noopur](https://github.com/noopur-tiwari)
 - [Anshul Wagadre](https://github.com/arkenstan)
